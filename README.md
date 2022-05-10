@@ -2,5 +2,5 @@
 
 ## Indice das receitas
 
-[Bolo de chocolate]
-[Café com leite]
+- [Bolo de chocolate](BoloDeChocolate.html)
+- [Café com leite](CafeComLeite.txt)
