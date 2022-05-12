@@ -6,4 +6,4 @@
 - [Café com leite](CafeComLeite.txt)
 - [Bolo tres leite](BoloTresLeite.txt)
 - [Bolo Abacaxi](bolo_abacaxi.txt) 🥧
-- [Frango Frito](frango_frito.txt)
+- [Frango Frito](frango frito.txt)
