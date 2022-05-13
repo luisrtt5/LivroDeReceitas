@@ -10,4 +10,5 @@
 - [Frango Frito](frangofrito.txt)
 - [Arepa](arepa.txt)
 - [Panqueca](Panquecas.txt)
+- Arepa Andina (ArepaAndina.txt)
 
