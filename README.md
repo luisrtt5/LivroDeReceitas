@@ -18,4 +18,3 @@
 - [Bolo de chuva](BoloDeChuva.txt)
 - [Pão de Queijo](pao_de_queijo.txt)
 - [Jujubas](Jujubas)
-- [Bolo de Rolo](Bolo de Rolo)
