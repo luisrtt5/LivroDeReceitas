@@ -1,4 +1,4 @@
-# Livro de Receitas colaborativo
+# Livro de Receitas colaborativo - TOTI
 
 ## Indice das receitas
 
