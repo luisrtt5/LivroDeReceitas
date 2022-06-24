@@ -336,7 +336,7 @@ footer {
   list-style: none;
 }
 
-.footer .infoCollumn ul li:hover {
+.footer .infoCollumn ul li a:hover {
   text-decoration: underline 3px solid;
   text-decoration-color: #4E9231;
   opacity: 0.8;
